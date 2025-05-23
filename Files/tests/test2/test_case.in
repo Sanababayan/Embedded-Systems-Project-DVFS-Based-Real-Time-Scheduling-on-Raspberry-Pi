@@ -1,0 +1,16 @@
+0 basicmath 7
+0 dijkstra 8
+0 basicmath 15
+1 qsort 0.8
+1 qsort 1.5
+1 dijkstra 2
+1 basicmath 9
+2 dijkstra 0.5
+2 qsort 1.5
+2 basicmath 8.5
+2 qsort 10.5
+3 bitcount 0.6
+3 bitcount 1.5
+3 qsort 2.5
+3 dijkstra 3
+3 qsort 3.5

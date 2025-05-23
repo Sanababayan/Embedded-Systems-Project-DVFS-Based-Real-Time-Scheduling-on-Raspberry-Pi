@@ -1,0 +1,6 @@
+0 basicmath 900 5
+1 basicmath 600 10
+1 jpeg 600 12
+2 basicmath 600 10
+2 jpeg 600 23
+3 jpeg 600 17
